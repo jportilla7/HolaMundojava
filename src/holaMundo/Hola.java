@@ -13,7 +13,7 @@ public class Hola {
 
 	@Override
 	public String toString() {
-		return "Hola [saludando michael=" + saludo + "]";
+		return "Hola [saludando michael 2=" + saludo + "]";
 	}
 
 	public Hola(String saludo) {
